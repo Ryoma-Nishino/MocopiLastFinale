@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.microsoft.mixedreality.openxr": {
+      "tarball": {
+        "hash": "570cf286e70a",
+        "mtime": 1697699308000,
+        "size": 10451121,
+        "localPath": "C:\\Users\\drane\\neo_mocopi\\Packages\\MixedReality\\com.microsoft.mixedreality.openxr-1.9.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.examples": {
+      "tarball": {
+        "hash": "42f661a9fb5b",
+        "mtime": 1698302710000,
+        "size": 55195848,
+        "localPath": "C:\\Users\\drane\\neo_mocopi\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.examples-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.extensions": {
+      "tarball": {
+        "hash": "84fe3e76e9b7",
+        "mtime": 1698302706000,
+        "size": 1131406,
+        "localPath": "C:\\Users\\drane\\neo_mocopi\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.extensions-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.foundation": {
+      "tarball": {
+        "hash": "f2323a9b7aec",
+        "mtime": 1697699310000,
+        "size": 11691469,
+        "localPath": "C:\\Users\\drane\\neo_mocopi\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.foundation-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.standardassets": {
+      "tarball": {
+        "hash": "aab256284dc6",
+        "mtime": 1697699304000,
+        "size": 5328617,
+        "localPath": "C:\\Users\\drane\\neo_mocopi\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.standardassets-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.testutilities": {
+      "tarball": {
+        "hash": "b1a5df198759",
+        "mtime": 1699934150000,
+        "size": 18590,
+        "localPath": "C:\\Users\\drane\\neo_mocopi\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.testutilities-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.tools": {
+      "tarball": {
+        "hash": "650cce437d92",
+        "mtime": 1697755132000,
+        "size": 2111115,
+        "localPath": "C:\\Users\\drane\\neo_mocopi\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.tools-2.8.3.tgz"
+      }
+    }
+  }
+}
